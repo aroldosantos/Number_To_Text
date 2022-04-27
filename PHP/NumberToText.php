@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * This script was adapted from the example made by @newerton found at 
+ * https://newerton.com.br/blog/12-preco-em-real-por-extenso-em-php.html
+ */
+
 class NumberToText
 {
 
